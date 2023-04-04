@@ -19,8 +19,17 @@ The aim of this project is to investigate the underlying factors that contribute
 
 
 ## Results 
+**Population Density vs Poverty**
+
+![2a_b](https://user-images.githubusercontent.com/129364286/229715257-fa23f740-dfb5-4f81-b0a0-f0f0115f952d.png)
+
+**Education vs Povery Status**
+![3a_b](https://user-images.githubusercontent.com/129364286/229715458-a6522c73-71e3-456d-b16a-d2704d93df65.png)
+
+**Crime and Poverty**
+![4a_b](https://user-images.githubusercontent.com/129364286/229715593-242c237c-7727-4498-89e7-91ed1508d202.png)
+
+**Ethnicity and Poverty** ![5a-b](https://user-images.githubusercontent.com/129364286/229716083-69f73bd9-9b52-48e2-b4da-a07eb3283034.png)
 
 
-
-
-# Conclusion
+**Please refer to the attached report for more information about this project**
